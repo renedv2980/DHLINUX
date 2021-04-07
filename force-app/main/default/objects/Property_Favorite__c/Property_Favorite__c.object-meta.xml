@@ -47,7 +47,7 @@
     <enableBulkApi>true</enableBulkApi>
     <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
-    <description>added a comment on April 6 for testing</description>
+    <description>added a comment on April 7 for testing and for giving a demo</description>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
     <enableSearch>true</enableSearch>
